@@ -14,9 +14,9 @@ module.exports = {
   projectName: 'user_docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Autocomic',
+      title: 'autocomic',
       logo: {
-        alt: 'Autocomic',
+        alt: 'autocomic',
         src: 'img/logo.svg',
       },
       items: [
