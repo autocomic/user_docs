@@ -27,8 +27,8 @@ To translate comic pages, you will need to upload raws to an image set.
 Imported PSDs will be flattened into a raster image
 :::
 
-5. The image set should now be displayed in your `My Works` tab
-6. If additional pages need to be added to the image set, click onto the image set and click the "Add Page" button to open the file explorer again
+5. The new images should now be part of the image set
+6. If additional pages need to be added to the image set, click onto the image set and click the `Upload Images` button to open the file explorer again
 
 <div style={{position:"relative", "padding-bottom": "56.25%"}}>
     <iframe frameborder="0" style={{border: "1px solid rgba(0, 0, 0, 0.1)", position: "absolute", left:0, top:0}} width="100%" height="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVMoeNdQpt5F0J7yfq1MfJ9%2FUI%3Fnode-id%3D408%253A601%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D408%253A601%26hide-ui=1" allowfullscreen></iframe>
