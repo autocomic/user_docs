@@ -3,34 +3,20 @@ slug: /
 sidebar_position: 1
 ---
 
-# Autocomic User Guide
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Autocomic user guide. 
 
-## Getting Started
+Autocomic is the **fastest :rocket:&nbsp; and smartest :brain:&nbsp; scanlation tool**. The main purpose of the tool is to speed up the scanlation process with automated cleaning & translation, streamlined workflows, and more.
+## Get started 
+Each section of this manual describes how to use each feature of the Autocomic system. 
 
-Get started by **creating a new site**.
+Start by [importing](./importing) your favourite manga and jump into our editor. You can:
+1. [Clean](./cleaning) speech bubbles.
+2. [Translate](./translating) text in the speech bubbles.
+3. [Inpaint](./inpainting) - remove text outside of speech bubbles from the background.
+4. [Export](./exporting) - export your work as a final copy or as PSD for further work in Photoshop.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+## Acknowledgements
+Brought to you by the Autocomic team. Enjoy!
+![Autocomic](/img/logo.svg)

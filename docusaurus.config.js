@@ -24,7 +24,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'User Guide',
+          label: 'Autocomic User Guide',
         },
       ],
     },
